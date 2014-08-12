@@ -2,7 +2,6 @@
 #define __SIMPLE_INPUT_H__
 
 #include "cocos2d.h"
-#include "Library/Library.h"
 
 #include "SimpleButton.h"
 #include "SimpleJoystick.h"
