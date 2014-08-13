@@ -15,7 +15,7 @@ public:
 	CC_SYNTHESIZE_READONLY(float, _buttonRadius, ButtonRadius);
 
 	CC_SYNTHESIZE_READONLY(bool, _isActive, IsActive);
-	CC_SYNTHESIZE_READONLY(bool, _isPressed, isPressed);
+	CC_SYNTHESIZE_READONLY(bool, _isPressed, IsPressed);
 
 	CC_SYNTHESIZE_READONLY(cocos2d::Sprite *, _defaultSprite, DefaultSprite);
 	CC_SYNTHESIZE_READONLY(cocos2d::Sprite *, _activatedSprite, ActivatedSprite);
