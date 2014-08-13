@@ -19,7 +19,7 @@ using namespace cocos2d;
 	this->addChild(joystick, 1);
 */
 	
-namespace SimpleImput{
+namespace SimpleInput{
 	static SimpleJoystick* createJoystick()
 {
 		int xOffset = 12;
